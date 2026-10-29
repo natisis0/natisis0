@@ -76,6 +76,3 @@ Food ordering app with REST APIs, JWT authentication, and responsive UI.
 
 ---
 
-## 🤝 Let's connect
-
-I'm looking for **remote software engineering roles** where I can build AI-powered products end to end. If you're hiring or have a project, reach out on [LinkedIn](https://www.linkedin.com/in/natnael-sisay-b07149390/) or email me at **natnaesisay4@gmail.com**.
